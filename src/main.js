@@ -19,6 +19,7 @@ const FAQS = [
   }
 ]
 
+
 function renderFAQ() {
   const list = document.getElementById('faq-list')
   if (!list) return
